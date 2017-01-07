@@ -1,5 +1,7 @@
 # testdiff
 test diff for the lazy people of the Tabriz Uni  
+Updates each 5 mins automatically if run in the background  
+__change the interval in the sleep() command__  
 ## deps
 bs4, requests  
 ###dep installs
