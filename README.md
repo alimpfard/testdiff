@@ -2,6 +2,7 @@
 test diff for the lazy people of the Tabriz Uni  
 Updates each 5 mins automatically if run in the background  
 __change the interval in the sleep() command__  
+**Droidfags can use QPython3 i s'ppose**
 ## deps
 bs4, requests  
 ###dep installs
