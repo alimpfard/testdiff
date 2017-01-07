@@ -37,6 +37,8 @@ def main():
                 a+=1
         if a is 0:
             print("No Change detected.")
+        else:
+            print("\a\a\a\a"*10)
         __import__("time").sleep(5*60)
 if __name__ == "__main__":
     main()
